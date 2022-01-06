@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "title": "Which of the following variables takes precedence over the others if the names are the same?",
+      "choice": [
+        "Global variable",
+        "local element",
+        "The two of the above",
+        "None of the above"
+      ],
+      "correctchoice": "local element",
+      "colorCode": "CB4335"
+    },
+    {
+      "id": 2,
+      "title": "Which type of language is Javascript ",
+      "choice": ["Programming", "Scripting", "Markup", "None of the above"],
+      "correctchoice": "Scripting",
+      "colorCode": "148F77"
+    },
+    {
+      "id": 3,
+      "title": " Which of the following function of Array object removes the last element from an array and returns that element?",
+      "choice": ["push", "delete", "pop", "link"],
+      "correctchoice": "pop",
+      "colorCode": "9A7D0A"
+    },
+    {
+      "id": 4,
+      "title": "Original Name of Javascript is ",
+      "choice": ["Mocha", "Escript", "Javascript", "LiveScript"],
+      "correctchoice": "Mocha",
+      "colorCode": "6C3483"
+    },
+    {
+      "id": 5,
+      "title": "Which one of the following is an ternary operator: ",
+      "choice": ["?", ":", "-", "+"],
+      "correctchoice": "?",
+      "colorCode": "FF5733"
+    }
+  ]
+}
